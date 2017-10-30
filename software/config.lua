@@ -1,7 +1,7 @@
 local module = {}
 
 module.SSID = {}  
-module.SSID["/dev/lol"] = "4dprinter"
+module.SSID["myssid"] = "s3cr3tpassword"
 module.SSID["ESP8266_OPEN"] = ""
 
 module.mqtt = {
